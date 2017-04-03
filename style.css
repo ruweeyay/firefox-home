@@ -1,0 +1,112 @@
+
+body {
+      bgcolor:#000000
+	  font-family: manaspc;
+      background-image:url(bgone.png);
+      }
+      
+a {
+      color:#CCCCCC
+      font-family: manaspc;
+      font-size:10pt;
+      padding: 5px;
+	
+      }
+a:link, a:visited, a:active {
+	color: #CCCCCC;
+	text-decoration: none;
+	font-family: manaspc
+	}
+span {
+	font-family: manaspc;
+	font-size: 14pt;
+	color: #35354C;
+	}
+p {
+	  position: relative;
+	  top: 20%;
+	  font-size: 20pt;
+
+      }
+ul#listone {
+	  font-family: manaspc;
+	  float:left;
+	  color:CCCCCC;
+	  list-style-type:none;
+	  background-color:#000000;
+	  
+      }
+ul#listone li { display: inline; }
+ul#listone li a {
+	  
+	  font-family: manaspc;
+	  float:left;
+	  width:80px;
+	  color:#CCCCCC;
+	  padding: 0.2em 0.8em;
+	  text-decoration:none;
+      }
+ul#listone li a:hover {
+	  
+	  background-color:#4E525C
+			       color:#fff;
+      }
+
+h2#jap {
+	  text-sixe:30pt;
+	  color:#CCCCCC
+	  			
+      }
+div#cent {
+	  display: flex;
+	  justify-content: center;
+	  align-items: center;
+      }
+div#all {
+	  position: relative;
+	  top: 20%;
+      }
+h2 {
+	  font-size: 30pt;
+      }
+@font-face {
+	  font-family: manaspc;
+	  src: url(manaspc.ttf);
+      }
+
+.goog {
+	  background-color: #000000;
+	  color: #CCCCCC;
+	  font-family: manaspc;
+	  font-size: 10pt;
+	  margin: 3%;
+	  border-style: 2px solid;
+	
+		     
+      }
+      
+div#mainbox {
+	  padding: 7px;
+	  position: relative;
+	  top: 35%; left: 0; right: 0; bottom: 0;
+	  margin: auto;
+	  outline: #CCCCCC solid 1px;
+	  display: table;
+	  font-family: manaspc;
+	  font-size: 12pt;
+	}
+h1#hello {
+	font-family: manaspc;
+	font-size: 14pt;
+	color: #CCCCCC
+	}
+h3#clock {
+	font-family: manaspc;
+	font-size: 13pt;
+	color: #CCCCCC
+	}
+
+      
+			  
+	  
+    
